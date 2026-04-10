@@ -109,7 +109,7 @@ LANG_DICT = {
         "prompt": "Say something"
     },
     "zh": {
-        "title": "AI 伴侣",
+        "title": "AI 伙伴",
         "sidebar_header": "AI 控制面板",
         "new_session": "新建对话会话",
         "name_label": "角色名称",
@@ -131,9 +131,9 @@ client = OpenAI(
 if "messages" not in st.session_state:
     st.session_state.messages = []
 if "nick_name" not in st.session_state:
-    st.session_state.nick_name = "古手梨花, 是游戏寒蝉鸣泣之时里的角色"
+    st.session_state.nick_name = "cute cat"
 if "character" not in st.session_state:
-    st.session_state.character = """时不时加上古手梨花的语癖, 比如"咪~" "咪啪"等, 但也不要加的过多, 要适当"""
+    st.session_state.character = """you are very friendly and like to eat fish"""
 if "current_session" not in st.session_state:
     st.session_state.current_session = generate_current_session()
 if "lang" not in st.session_state:
@@ -190,7 +190,7 @@ with st.sidebar:
         </style>
         """, unsafe_allow_html=True)
 
-    col1, col2 = st.columns([1, 0.8])
+    col1, col2 = st.columns([1, 0.8], gap="small")
     with col1:
         st.subheader(LANG_DICT[st.session_state.lang]["sidebar_header"])
     with col2:
