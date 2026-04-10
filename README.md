@@ -76,7 +76,7 @@ Once running, the app will automatically open in your default browser (usually a
 
 ---
 
-# 🦌 AI 伴侣
+# 🦌 AI 伙伴
 
 [English](#english)
 
