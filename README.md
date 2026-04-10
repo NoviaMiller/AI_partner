@@ -6,6 +6,8 @@
 <a name="english"></a>
 A lightweight, customizable AI roleplay companion built with **Streamlit** and the **DeepSeek API** **(feel free to change to other models)**. Unlike many web-based AI chats, this project focuses on privacy by saving all your conversation history locally on your own machine.
 
+<img width="2560" height="1262" alt="Image" src="https://github.com/user-attachments/assets/d5183c74-328e-456c-a35e-cacef617c7d6" />
+
 ## ✨ Features
 
   * **Custom Persona System**: Easily change the AI's name and personality traits directly from the sidebar.
@@ -81,6 +83,8 @@ Once running, the app will automatically open in your default browser (usually a
 <a name="chinese"></a>
 
 这是一个轻量级、可定制的 AI 角色扮演伴侣，基于 **Streamlit** 和 **DeepSeek API** 开发。与许多基于 Web 的 AI 聊天不同，本项目专注于隐私保护，所有对话历史都会本地保存。
+
+<img width="2560" height="1262" alt="Image" src="https://github.com/user-attachments/assets/3db4a46e-8331-49cd-b56d-e43df6372877" />
 
 ## ✨ 功能特性
 
