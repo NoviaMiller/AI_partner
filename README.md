@@ -13,7 +13,7 @@ A lightweight, customizable AI roleplay companion built with **Streamlit** and t
   * **Custom Persona System**: Easily change the AI's name and personality traits directly from the sidebar.
   * **Persistent Local History**: Conversations are saved as `.json` files in a local `/sessions` folder.
   * **Session Management**: Create new chat sessions, switch between historical dialogues, or delete old ones.
-  * **Roleplay Ready**: Pre-configured with a default *Furude Rika* (Higurashi) persona to demonstrate the "Short & Sweet" chat style.
+  * **Roleplay Ready**: Pre-configured with a default *cat* persona to demonstrate the "Short & Sweet" chat style.
   * **Streaming UI**: Real-time response generation for a smooth "typing" experience.
 
 ## 🛠️ Environment & Prerequisites
@@ -91,7 +91,7 @@ Once running, the app will automatically open in your default browser (usually a
 * **自定义人格系统**：直接在侧边栏修改 AI 的名称和性格特征，即刻生效。
 * **本地持久化历史**：所有对话均以 `.json` 格式保存在本地 `/sessions` 文件夹中。
 * **会话管理**：支持创建新会话、在历史对话间无缝切换，或永久删除旧记录。
-* **角色扮演优化**：预配置了“古手梨花”角色示例，展示“简短精炼”的聊天风格。
+* **角色扮演优化**：预配置了“可爱猫咪”角色示例，展示“简短精炼”的聊天风格。
 * **流式响应 UI**：实时生成回复内容，提供流畅的“打字中”交互体验。
 * **双语切换**：界面支持中英文一键切换。
 
